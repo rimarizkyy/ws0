@@ -10,4 +10,4 @@ untuk mencoba service, ketik pada url browser:
 
 Pada percobaan ini file **klien.php** satu folder bersama **server.php**. Anda dapat memindahkannya dalam rangka testing.
 
-
+TEST
